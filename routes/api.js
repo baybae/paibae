@@ -23,7 +23,7 @@ var lolkill = db.get("lolkill");
 }
 
 var creator = 'baybae' // ubah jadi nama lu
-const listkey = ["baybae","aphv","gendul"]; // ubah apikey nya, tambah aja klo mau
+const listkey = ["baybae","Zeeone","ZeeoneOfc"]; // ubah apikey nya, tambah aja klo mau
 
 var axios = require('axios');
 var qs = require('qs');
